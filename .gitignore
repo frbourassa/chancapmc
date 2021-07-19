@@ -1,0 +1,6 @@
+*.out
+*.so
+__pycache__/
+build/*.7
+*.npy
+*.bin
